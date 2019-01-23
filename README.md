@@ -19,7 +19,7 @@ b) Une fois les informations récupérées du model, le controller les envoie à
 
 # Le projet de l'application > 4 grandes parties, chacune correspondant à une classe (donc un fichier) :
 
-> Le routeur
-> Le controller
-> La view
-> La base de donnée (model)
+- Le routeur
+- Le controller
+- La view
+- La base de donnée (model)
