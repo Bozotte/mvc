@@ -16,3 +16,10 @@ b) Une fois les informations récupérées du model, le controller les envoie à
 - Gestion base de données (Model) : Ajouts / Suppression d'informations
 - Gestion intéractions avec l'utilisateur/trice (View): Construction pages HTML
 - Chef d'orchestre (Controller) : Lien entre chaque composant
+
+# Le projet de l'application > 4 grandes parties, chacune correspondant à une classe (donc un fichier) :
+
+> Le routeur
+> Le controller
+> La view
+> La base de donnée (model)
